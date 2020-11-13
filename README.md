@@ -8,11 +8,7 @@ The ETL project purpose was to perform the following tasks:
 
 Data Sources:
     1) Kaggle 
-       [https://www.kaggle.com/camnugent/ufo-sightings-around-the-world](https://www.kaggle.com/camnugent/ufo-sightings-around-the-world)
+        [https://www.kaggle.com/camnugent/ufo-sightings-around-the-world](https://www.kaggle.com/camnugent/ufo-sightings-around-the-world)
 
     2) Data.world
        [https://data.world/timothyrenner/ufo-sightings](https://data.world/timothyrenner/ufo-sightings)
-
-
-
-    
